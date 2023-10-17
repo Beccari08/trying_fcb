@@ -1,0 +1,36 @@
+body{
+  background-color: rgb(241, 241, 241);
+  font-family: 'Roboto', sans-serif;
+
+
+.logo_fcb{
+  padding-left: 420px;
+  padding-top: 170px;
+
+}
+.text{
+  font-size: 25px;
+  padding-left: 456px;
+}
+
+.forms{
+  padding-right: 440px;
+  text-align: right;
+}
+
+.input{
+  border-bottom: 2px;
+}
+
+ul{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+footer{
+  padding-top: 100px;
+  background-color: white;
+}
